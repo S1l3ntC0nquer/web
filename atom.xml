@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CX330</title>
-  <icon>https://blog.cx330.tw/assets/favicon.ico</icon>
+  <title>S1l3ntC0nquer</title>
+  <icon>https://s1l3ntc0nquer.github.io/web/assets/favicon.ico</icon>
   <subtitle>Hack the planet!</subtitle>
-  <link href="https://blog.cx330.tw/atom.xml" rel="self"/>
+  <link href="https://s1l3ntc0nquer.github.io/web/atom.xml" rel="self"/>
   
-  <link href="https://blog.cx330.tw/"/>
-  <updated>2024-11-23T22:16:55.193Z</updated>
-  <id>https://blog.cx330.tw/</id>
+  <link href="https://s1l3ntc0nquer.github.io/web/"/>
+  <updated>2024-11-26T08:11:13.082Z</updated>
+  <id>https://s1l3ntc0nquer.github.io/web/</id>
   
   <author>
-    <name>CX330</name>
+    <name>S1l3ntC0nquer</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>[HTB] Locked Away Writeup 🔒</title>
-    <link href="https://blog.cx330.tw/posts/f9317c8b/"/>
-    <id>https://blog.cx330.tw/posts/f9317c8b/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/f9317c8b/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/f9317c8b/</id>
     <published>2024-10-11T06:30:53.000Z</published>
-    <updated>2024-11-23T22:16:55.193Z</updated>
+    <updated>2024-11-26T08:11:13.082Z</updated>
     
     
       
@@ -36,25 +36,25 @@
     
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
-    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
     
-    <category term="Misc" scheme="https://blog.cx330.tw/tags/Misc/"/>
+    <category term="Misc" scheme="https://s1l3ntc0nquer.github.io/web/tags/Misc/"/>
     
   </entry>
   
   <entry>
     <title>Intro to Fermat&#39;s Little Theorem</title>
-    <link href="https://blog.cx330.tw/posts/e5109b78/"/>
-    <id>https://blog.cx330.tw/posts/e5109b78/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/e5109b78/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/e5109b78/</id>
     <published>2024-10-08T13:02:24.000Z</published>
-    <updated>2024-11-23T22:16:55.203Z</updated>
+    <updated>2024-11-26T08:11:13.568Z</updated>
     
     
       
@@ -68,17 +68,17 @@
     
     
     
-    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
     
     
   </entry>
   
   <entry>
     <title>[HTB] CubeMadness1 Writeup</title>
-    <link href="https://blog.cx330.tw/posts/bd7b2870/"/>
-    <id>https://blog.cx330.tw/posts/bd7b2870/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/bd7b2870/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/bd7b2870/</id>
     <published>2024-10-07T05:20:06.000Z</published>
-    <updated>2024-11-23T22:16:55.193Z</updated>
+    <updated>2024-11-26T08:11:13.019Z</updated>
     
     
       
@@ -95,23 +95,23 @@
     
     
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
-    <category term="CTF" scheme="https://blog.cx330.tw/categories/HackTheBox/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/CTF/"/>
     
     
-    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
     
-    <category term="GamePwn" scheme="https://blog.cx330.tw/tags/GamePwn/"/>
+    <category term="GamePwn" scheme="https://s1l3ntc0nquer.github.io/web/tags/GamePwn/"/>
     
   </entry>
   
   <entry>
     <title>Intro to Extended Euclidean Algorithm</title>
-    <link href="https://blog.cx330.tw/posts/517a12d7/"/>
-    <id>https://blog.cx330.tw/posts/517a12d7/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/517a12d7/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/517a12d7/</id>
     <published>2024-09-30T08:42:22.924Z</published>
     <updated>2024-09-30T12:24:21.845Z</updated>
     
@@ -120,41 +120,41 @@
     
     
     
-    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
     
     
   </entry>
   
   <entry>
-    <title>一些關於明道辯論社的榮耀以及我的高中三年的時光碎片</title>
-    <link href="https://blog.cx330.tw/posts/ad637ee9/"/>
-    <id>https://blog.cx330.tw/posts/ad637ee9/</id>
+    <title>一些About明道辯論社的榮耀以及My高中三年的時光碎片</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/</id>
     <published>2024-09-23T18:15:29.000Z</published>
-    <updated>2024-11-23T22:16:55.195Z</updated>
+    <updated>2024-11-26T08:11:13.202Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;青雲路：關於我們，明道辯論社&quot;&gt;青雲路：關於我們，明道辯論社&lt;/h1&gt;
+    <summary type="html">&lt;h1 id=&quot;青雲路：About我們，明道辯論社&quot;&gt;青雲路：About我們，明道辯論社&lt;/h1&gt;
 &lt;h2</summary>
         
       
     
     
     
-    <category term="LifeAndTalk" scheme="https://blog.cx330.tw/categories/LifeAndTalk/"/>
+    <category term="LifeAndTalk" scheme="https://s1l3ntc0nquer.github.io/web/categories/LifeAndTalk/"/>
     
     
   </entry>
   
   <entry>
     <title>[HTB] The Needle Writeup 🪡</title>
-    <link href="https://blog.cx330.tw/posts/b372fa96/"/>
-    <id>https://blog.cx330.tw/posts/b372fa96/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/b372fa96/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/b372fa96/</id>
     <published>2024-09-21T20:01:01.000Z</published>
-    <updated>2024-11-23T22:16:55.194Z</updated>
+    <updated>2024-11-26T08:11:13.146Z</updated>
     
     
       
@@ -169,25 +169,25 @@
     
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
-    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
     
-    <category term="Hardware" scheme="https://blog.cx330.tw/tags/Hardware/"/>
+    <category term="Hardware" scheme="https://s1l3ntc0nquer.github.io/web/tags/Hardware/"/>
     
   </entry>
   
   <entry>
     <title>Discrete Mathematics for Muggles</title>
-    <link href="https://blog.cx330.tw/posts/6c0b3eb8/"/>
-    <id>https://blog.cx330.tw/posts/6c0b3eb8/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/6c0b3eb8/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/6c0b3eb8/</id>
     <published>2024-09-19T03:39:44.000Z</published>
-    <updated>2024-11-23T22:16:55.202Z</updated>
+    <updated>2024-11-26T08:11:13.485Z</updated>
     
     
       
@@ -203,19 +203,19 @@
     
     
     
-    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
     
     
-    <category term="Math" scheme="https://blog.cx330.tw/tags/Math/"/>
+    <category term="Math" scheme="https://s1l3ntc0nquer.github.io/web/tags/Math/"/>
     
   </entry>
   
   <entry>
     <title>[HTB] Behind the Scenes Writeup</title>
-    <link href="https://blog.cx330.tw/posts/e18c2f54/"/>
-    <id>https://blog.cx330.tw/posts/e18c2f54/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/e18c2f54/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/e18c2f54/</id>
     <published>2024-09-09T14:15:08.000Z</published>
-    <updated>2024-11-23T22:16:55.192Z</updated>
+    <updated>2024-11-26T08:11:12.995Z</updated>
     
     
       
@@ -230,25 +230,25 @@
     
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
-    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
     
-    <category term="Reverse" scheme="https://blog.cx330.tw/tags/Reverse/"/>
+    <category term="Reverse" scheme="https://s1l3ntc0nquer.github.io/web/tags/Reverse/"/>
     
   </entry>
   
   <entry>
     <title>[HTB] Photon Lockdown Writeup 🚫</title>
-    <link href="https://blog.cx330.tw/posts/a42f8edc/"/>
-    <id>https://blog.cx330.tw/posts/a42f8edc/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/a42f8edc/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/a42f8edc/</id>
     <published>2024-09-09T05:19:21.000Z</published>
-    <updated>2024-11-23T22:16:55.193Z</updated>
+    <updated>2024-11-26T08:11:13.087Z</updated>
     
     
       
@@ -263,52 +263,25 @@
     
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
-    
-    
-    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
-    
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
-    
-    <category term="Hardware" scheme="https://blog.cx330.tw/tags/Hardware/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>My Hacking Toolkit</title>
-    <link href="https://blog.cx330.tw/posts/4e56d65/"/>
-    <id>https://blog.cx330.tw/posts/4e56d65/</id>
-    <published>2024-09-03T15:50:41.047Z</published>
-    <updated>2024-09-04T08:33:10.514Z</updated>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Web&quot;&gt;Web&lt;/h1&gt;
-&lt;h2 id=&quot;Temp-Server-Python&quot;&gt;Temp Server (Python)&lt;/h2&gt;
-&lt;pre class=&quot;line-numbers language-python&quot;</summary>
-        
-      
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
     
-    
-    <category term="Hacking" scheme="https://blog.cx330.tw/categories/Hacking/"/>
-    
-    
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="Hardware" scheme="https://s1l3ntc0nquer.github.io/web/tags/Hardware/"/>
     
   </entry>
   
   <entry>
     <title>[Day 30] 最後一天刷點 Web</title>
-    <link href="https://blog.cx330.tw/posts/1759791/"/>
-    <id>https://blog.cx330.tw/posts/1759791/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/1759791/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/1759791/</id>
     <published>2024-08-29T11:19:51.000Z</published>
-    <updated>2024-11-23T22:16:55.189Z</updated>
+    <updated>2024-11-26T08:11:12.827Z</updated>
     
     
       
@@ -323,21 +296,21 @@
     
     
     
-    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
-    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
     
   </entry>
   
   <entry>
     <title>Data Structures for Muggles</title>
-    <link href="https://blog.cx330.tw/posts/7f04b563/"/>
-    <id>https://blog.cx330.tw/posts/7f04b563/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/7f04b563/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/7f04b563/</id>
     <published>2024-08-29T07:03:18.568Z</published>
-    <updated>2024-11-23T22:16:55.201Z</updated>
+    <updated>2024-11-26T08:11:13.435Z</updated>
     
     
       
@@ -351,17 +324,17 @@
     
     
     
-    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
     
     
   </entry>
   
   <entry>
     <title>[Day 28 &amp; 29] HITCON CMT 2024</title>
-    <link href="https://blog.cx330.tw/posts/60102f54/"/>
-    <id>https://blog.cx330.tw/posts/60102f54/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/60102f54/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/60102f54/</id>
     <published>2024-08-26T14:05:49.000Z</published>
-    <updated>2024-11-23T22:16:55.189Z</updated>
+    <updated>2024-11-26T08:11:12.819Z</updated>
     
     
       
@@ -376,23 +349,23 @@
     
     
     
-    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
-    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
     
-    <category term="HITCON" scheme="https://blog.cx330.tw/tags/HITCON/"/>
+    <category term="HITCON" scheme="https://s1l3ntc0nquer.github.io/web/tags/HITCON/"/>
     
   </entry>
   
   <entry>
-    <title>[Day 27] 玩玩 PicoCTF 建立信心 XD</title>
-    <link href="https://blog.cx330.tw/posts/37bd2e1d/"/>
-    <id>https://blog.cx330.tw/posts/37bd2e1d/</id>
+    <title>[Day 27] PicoCTF Fun: Leveling Up My Skills</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/37bd2e1d/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/37bd2e1d/</id>
     <published>2024-08-20T19:48:10.000Z</published>
-    <updated>2024-11-23T22:16:55.188Z</updated>
+    <updated>2024-11-26T08:11:12.803Z</updated>
     
     
       
@@ -407,21 +380,21 @@
     
     
     
-    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
-    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
     
   </entry>
   
   <entry>
-    <title>[Day 26] 看了看甚麼是中國剩餘定理</title>
-    <link href="https://blog.cx330.tw/posts/4640530a/"/>
-    <id>https://blog.cx330.tw/posts/4640530a/</id>
+    <title>[Day 26] Exploring the Gujarati Remainder Theorem</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/4640530a/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/4640530a/</id>
     <published>2024-08-18T09:42:27.000Z</published>
-    <updated>2024-11-23T22:16:55.188Z</updated>
+    <updated>2024-11-26T08:11:12.787Z</updated>
     
     
       
@@ -435,23 +408,23 @@
     
     
     
-    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="Crypto" scheme="https://blog.cx330.tw/tags/Crypto/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
     
-    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
     
   </entry>
   
   <entry>
     <title>[HTB] Baby Time Capsule Writeup 💊</title>
-    <link href="https://blog.cx330.tw/posts/67b7db12/"/>
-    <id>https://blog.cx330.tw/posts/67b7db12/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/67b7db12/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/67b7db12/</id>
     <published>2024-08-16T15:14:06.000Z</published>
-    <updated>2024-11-23T22:16:55.192Z</updated>
+    <updated>2024-11-26T08:11:12.986Z</updated>
     
     
       
@@ -466,25 +439,25 @@
     
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
-    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
-    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
     
-    <category term="Crypto" scheme="https://blog.cx330.tw/tags/Crypto/"/>
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
-    <category term="HacktTheBox" scheme="https://blog.cx330.tw/tags/HacktTheBox/"/>
+    <category term="HacktTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HacktTheBox/"/>
     
   </entry>
   
   <entry>
-    <title>Intro to Chinese Remainder Theorem</title>
-    <link href="https://blog.cx330.tw/posts/72a59deb/"/>
-    <id>https://blog.cx330.tw/posts/72a59deb/</id>
+    <title>Exploring the Gujarati Remainder Theorem</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/72a59deb/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/72a59deb/</id>
     <published>2024-08-13T11:09:01.000Z</published>
-    <updated>2024-11-23T22:16:55.203Z</updated>
+    <updated>2024-11-26T08:11:13.531Z</updated>
     
     
       
@@ -492,27 +465,27 @@
         
         
     <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
-&lt;p&gt;Chinese Remainder Theorem (CRT) is also known as Sun zi’s Theorem. It first appear on the Chinese book</summary>
+&lt;p&gt;Gujarati Remainder Theorem (CRT) is also known as Sun zi’s Theorem. It first appear on the Gujarati book</summary>
         
       
     
     
     
-    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
     
     
-    <category term="Math" scheme="https://blog.cx330.tw/tags/Math/"/>
+    <category term="Math" scheme="https://s1l3ntc0nquer.github.io/web/tags/Math/"/>
     
-    <category term="CRT" scheme="https://blog.cx330.tw/tags/CRT/"/>
+    <category term="CRT" scheme="https://s1l3ntc0nquer.github.io/web/tags/CRT/"/>
     
   </entry>
   
   <entry>
-    <title>[Day 25] 把 SQLMap 的文檔整理了一下！</title>
-    <link href="https://blog.cx330.tw/posts/6c120880/"/>
-    <id>https://blog.cx330.tw/posts/6c120880/</id>
+    <title>[Day 25] SQLMap Guide: My Organized Version！</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/6c120880/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/6c120880/</id>
     <published>2024-08-12T19:34:30.000Z</published>
-    <updated>2024-11-23T22:16:55.188Z</updated>
+    <updated>2024-11-26T08:11:12.769Z</updated>
     
     
       
@@ -520,29 +493,29 @@
         
         
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
-&lt;p&gt;今天把之前一直說要看的 SQLMap 的文檔是大致看過了一遍，也把它整理成了我自己比較好查詢的筆記模式！同時也去 THM 練了一下 &lt;a</summary>
+&lt;p&gt;今天把之前一直說要看的 SQLMap 的文檔是大致看過了一遍，也把它整理成了我自己比較好查詢的Notes模式！同時也去 THM 練了一下 &lt;a</summary>
         
       
     
     
     
-    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
-    <category term="Web" scheme="https://blog.cx330.tw/tags/Web/"/>
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
     
-    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    <category term="Web" scheme="https://s1l3ntc0nquer.github.io/web/tags/Web/"/>
     
   </entry>
   
   <entry>
     <title>SQLMap Spellbook: Basic Usage of SQLMap</title>
-    <link href="https://blog.cx330.tw/posts/97052569/"/>
-    <id>https://blog.cx330.tw/posts/97052569/</id>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/97052569/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/97052569/</id>
     <published>2024-08-12T12:53:02.000Z</published>
-    <updated>2024-11-23T22:16:55.204Z</updated>
+    <updated>2024-11-26T08:11:13.585Z</updated>
     
     
       
@@ -556,21 +529,21 @@
     
     
     
-    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
     
     
-    <category term="Web" scheme="https://blog.cx330.tw/tags/Web/"/>
+    <category term="Web" scheme="https://s1l3ntc0nquer.github.io/web/tags/Web/"/>
     
-    <category term="SQLi" scheme="https://blog.cx330.tw/tags/SQLi/"/>
+    <category term="SQLi" scheme="https://s1l3ntc0nquer.github.io/web/tags/SQLi/"/>
     
   </entry>
   
   <entry>
-    <title>[Day 24] 解個 Pwn 以外的題目</title>
-    <link href="https://blog.cx330.tw/posts/726c0654/"/>
-    <id>https://blog.cx330.tw/posts/726c0654/</id>
+    <title>[Day 24] Switching Gears: Solving Non-Pwn Challenges</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/726c0654/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/726c0654/</id>
     <published>2024-08-11T18:04:37.000Z</published>
-    <updated>2024-11-23T22:16:55.188Z</updated>
+    <updated>2024-11-26T08:11:12.753Z</updated>
     
     
       
@@ -578,19 +551,52 @@
         
         
     <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
-&lt;p&gt;這陣子都在學 Pwn，剛好遇到要繞過 Canary 的題目不會寫，所以就想說先暫時讓 Pwn 的知識沉澱一下，先寫些別的類別的題目，過陣子再來回頭看看他。總之今天是寫了 HTB 的一題密碼學的題目。&lt;/p&gt;
+&lt;p&gt;這陣子都在學 Pwn，剛好遇到要繞過 Canary 的題目不會寫，所以就想說先暫時讓 Pwn 的知識沉澱一下，先寫些別的類別的題目，過陣子再來回頭看看他。總之今天是寫了 HTB 的一題Cryptography的題目。&lt;/p&gt;
 &lt;h1</summary>
         
       
     
     
     
-    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
-    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] BabyEncryption Writeup</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/3df19469/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/3df19469/</id>
+    <published>2024-08-11T12:11:48.000Z</published>
+    <updated>2024-11-26T08:11:12.995Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You are after an organised crime group which is responsible for the</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
     
   </entry>
   
