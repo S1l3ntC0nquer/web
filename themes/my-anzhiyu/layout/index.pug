@@ -1,0 +1,19 @@
+extends includes/layout.pug
+
+block content
+  include ./includes/mixins/post-ui.pug
+  #recent-posts.recent-posts
+    include includes/categoryGroup.pug
+    +postUI
+    include includes/pagination.pug
+
+    script.
+      document.addEventListener("DOMContentLoaded", function() {
+        var pageLang = "#{page.lang || 'en'}";
+        document.documentElement.lang = pageLang || 'en';
+      });
+
+      document.addEventListener("pjax:complete", function() {
+        var pageLang = "#{page.lang || 'en'}";
+        document.documentElement.lang = pageLang || 'en';
+      });

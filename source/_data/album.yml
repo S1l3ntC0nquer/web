@@ -1,0 +1,42 @@
+# https://docs.anheyu.com/page/album.html
+- class_name: Sunset and Scenery Worldwide
+  path_name: /wordScenery
+  type: 2
+  description: Since I can't travel the world, I've collected sunsets and landscapes shared by others.🌇。
+  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: Back
+  album_list:
+      - date: 2022/10/26 01:00:00
+        content: A corner of Xiangtan。
+        address: Hunan, Xiangtan
+        from: "I'll Diet After One More Bite"
+        image:
+            - https://bu.dusays.com/2023/04/09/64329399db122.webp
+      - date: 2022-10-25
+        content: The sky after a heavy rain in Luoyang。
+        address: Henan, Luoyang
+        from: Purple Seaweed Roll
+        image:
+            - https://bu.dusays.com/2023/04/09/64329399db122.webp
+            - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+- class_name: My Daily Life
+  path_name: /dailyPhoto
+  type: 1
+  description:A collection of my silly moments and interesting experiences。
+  top_link: /album
+  top_btn_text: Back
+  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  album_list:
+      - date: 2022-10-24
+        content: My Friends
+        image:
+            - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg

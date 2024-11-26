@@ -1,0 +1,15 @@
+/* 修復時間軸wowjs超出盒子 */
+div#archive {
+  overflow: hidden;
+  padding: 22px;
+}
+/* 修復加載時圖片太大超出範圍 */
+.aplayer.aplayer-fixed {
+  overflow: hidden;
+}
+
+@media screen and (max-width: 768px) {
+  #page .fcircle_page .author-content-item .card-content .banner-button-group .banner-button {
+    background-color: transparent !important;
+  }
+}

@@ -1,0 +1,110 @@
+- class_name: About me
+  title: About me
+  subtitle: I wanna be a digital nomad 💻
+  avatarImg: /assets/me.jpg
+  avatarSkills:
+      left:
+          - Hacker
+          - CTFer
+          - Hackstronaut
+          - Open sourcer
+      right:
+          - Developer
+          - Programmer
+          - Poet of Code
+          - Vampire
+  name: Kalpesh Solanki | S1l3ntC0nquer
+  description: An hacker, developer, and a CTFer.
+  aboutsiteTips:
+      tips: Philosophy
+      title1: Life is short,
+      title2: you need
+      word:
+          - Hack
+          - Love
+          - Dreams
+          - Hope
+          # - Art
+          # - Travel
+  helloAbout: Hello world
+  skillsTips:
+      tips: My skills
+      title: H4CK 7h3 P14N3T!
+  careers:
+      tips: Careers
+      title: Let's go
+      list:
+          - desc: JNV ANAND
+            color: "#5271ff"
+          - desc: GEC RAJKOT
+            color: "#00bf63"
+      img: https://raw.githubusercontent.com/CX330Blake/MyBlogPhotos/main/image/career.png
+  statistic:
+      link: /archives
+      text: Archives
+      cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+      title: "pwd: "
+      StrengthenTitle: /Earth/Kathana
+      background: https://blog.cx330.tw/assets/taiwan.png
+      backgroundDark: https://blog.cx330.tw/assets/taiwan.png
+  selfInfo:
+      selfInfoTips1: Born in
+      selfInfoContentYear: 2004
+      selfInfoTips2: Gujarat Technological University
+      selfInfoContent2: ECE
+      selfInfoTips3: Now
+      selfInfoContent3: Undergraduate
+  personalities:
+      author_name: Architect
+      personality_type: INTJ-A
+      photo_url: https://blog.cx330.tw/assets/real_me.jpg
+      personality_img: https://raw.githubusercontent.com/CX330Blake/MyBlogPhotos/main/image/Mediamodifier-Design.svg
+      name_url: https://www.16personalities.com/intj-personality
+  maxim:
+      maxim_tips: Motto
+      maxim_top: Information wants
+      maxim_bottom: to be free.
+  buff:
+      buff_tips: Buff
+      buff_top: Thinking outside the box
+      buff_bottom: Execution MAX
+  game:
+      game_tips: Game
+      game_title: CS2
+      game_uid: "UID: 125766904"
+      game_bg: https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/social/cs2.jpg
+  comic:
+      comic_tips: Reading
+      comic_title: Bookshelf
+      comic_list:
+          - name: The pragmatic programmer
+            href: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
+            cover: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20_hu7d9a813cf46675dfb7b1bf4930cee733_2802494_375x0_resize_q75_box.jpg
+          - name: Real-World Bug Hunting
+            href: https://www.google.com/search?q=real+world+bug+hunting
+            cover: https://m.media-amazon.com/images/I/81jAGZDGuyL._AC_UF1000,1000_QL80_.jpg
+          - name: Ghost in the wires
+            href: https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729
+            cover: https://m.media-amazon.com/images/I/41OUme2LKgL._SY445_SX342_.jpg
+          - name: Black Hat Python
+            href: https://www.google.com/search?q=black+hat+python
+            cover: https://m.media-amazon.com/images/I/91NJ0qC4vEL._AC_UF1000,1000_QL80_.jpg
+          - name: The Hacker Playbook 3
+            href: https://www.google.com/search?q=the+hacker+playbook
+            cover: https://m.media-amazon.com/images/I/81+0VLwOfIL._AC_UF1000,1000_QL80_.jpg
+  like:
+      like_tips: Following
+      like_title: Tech news
+      like_bg: https://raw.githubusercontent.com/CX330Blake/MyBlogPhotos/main/image/technews.jpg
+      like_bottom: CyberSec, CTF, Front end, Back end, AI, Mobile app, Electronics Xpert, Hardware, Embedded Systems
+  music:
+      music_tips: Music
+      music_title: Phonk, Folk, Lo-Fi, Sad Rap, R&B, Every Genre
+      music_bg: /assets/powfu.jpg
+      music_link: /music
+#   reward_list:
+#       - name: Kalpesh Solanki
+#         amount: 4.03
+#         datatime: 2022-10-27
+#         suffix: Everything

@@ -1,0 +1,49 @@
+- class_name: 📖 Books
+  class_desc: Here are the books that I'm currently reading or plan to read. #分类描述
+  link_list:
+      - name: The Pragmatic Programmer #名字
+        img: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20_hu7d9a813cf46675dfb7b1bf4930cee733_2802494_375x0_resize_q75_box.jpg #图片链接
+        score: 5 # 1-5星
+        icon: fa-solid fa-book #左上角图标
+        tip: Books # 右上角文字
+        url: # 可选
+      - name: Black Hat Python
+        img: https://m.media-amazon.com/images/I/91NJ0qC4vEL._AC_UF1000,1000_QL80_.jpg
+        score: 4.5
+        icon: fa-solid fa-book
+        tip: Books
+        url:
+      - name: Ghost in the wires
+        img: https://m.media-amazon.com/images/I/41OUme2LKgL._SY445_SX342_.jpg
+        score: 5
+        icon: fa-solid fa-book
+        tip: Books
+        url:
+      - name: The Hacker Playbook 3
+        img: https://m.media-amazon.com/images/I/81+0VLwOfIL._AC_UF1000,1000_QL80_.jpg
+        score: 5
+        icon: fa-solid fa-book
+        tip: Books
+        url:
+      - name: Real-World Bug Hunting
+        img: https://m.media-amazon.com/images/I/81jAGZDGuyL._AC_UF1000,1000_QL80_.jpg
+        score: 5
+        icon: fa-solid fa-book
+        tip: Books
+        url:
+
+- class_name: 🎬 Movies
+  class_desc: Here are the movies that I enjoyed.
+  link_list:
+      - name: Interstellar
+        img: https://m.media-amazon.com/images/I/91vIHsL-zjL._AC_UF894,1000_QL80_.jpg
+        score: 5
+        icon: fa-solid fa-film
+        top: Movies
+        url:
+      - name: Twilight
+        img: https://m.media-amazon.com/images/I/61Kj9BFDBfL._AC_UF894,1000_QL80_.jpg
+        score: 5
+        icon: fa-solid fa-film
+        top: Movies
+        url:
