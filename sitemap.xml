@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/posts/baaabc06/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/</loc>
     
     <lastmod>2024-11-26</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/posts/baaabc06/</loc>
     
     <lastmod>2024-11-26</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/posts/acba6120/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/posts/331a6b46/</loc>
     
     <lastmod>2024-11-26</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/posts/331a6b46/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/posts/acba6120/</loc>
     
     <lastmod>2024-11-26</lastmod>
     
@@ -389,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/posts/86a224b6/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/posts/db00a960/</loc>
     
     <lastmod>2024-11-26</lastmod>
     
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/posts/db00a960/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/posts/86a224b6/</loc>
     
     <lastmod>2024-11-26</lastmod>
     
@@ -686,41 +686,6 @@
 
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Cybersecurity/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/SCIST/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/AIS3/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/AI/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/GDSC/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://s1l3ntc0nquer.github.io/web/tags/CTF/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -743,27 +708,6 @@
   
   <url>
     <loc>https://s1l3ntc0nquer.github.io/web/tags/TechStreak30/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Blog/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Web-Development/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Security/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -812,21 +756,35 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Hacker/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Cybersecurity/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/GTU/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/AIS3/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/CCEP/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/SCIST/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/AI/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/GDSC/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -840,7 +798,14 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Reverse/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Blog/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Web-Development/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -854,7 +819,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/Hardware/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Reverse/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -862,6 +827,13 @@
   
   <url>
     <loc>https://s1l3ntc0nquer.github.io/web/tags/GamePwn/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Hardware/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -903,7 +875,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/SQLi/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/CRT/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -917,7 +889,28 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/tags/CRT/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/SQLi/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/GTU/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/CCEP/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Hacker/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -930,7 +923,21 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/tags/Security/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://s1l3ntc0nquer.github.io/web/categories/CTF/</loc>
@@ -947,14 +954,7 @@
   </url>
   
   <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/categories/LifeAndTalk/</loc>
+    <loc>https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -962,20 +962,6 @@
   
   <url>
     <loc>https://s1l3ntc0nquer.github.io/web/categories/PicoCTF/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/categories/Hacking/</loc>
-    <lastmod>2024-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -990,6 +976,20 @@
   
   <url>
     <loc>https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/categories/LifeAndTalk/</loc>
+    <lastmod>2024-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://s1l3ntc0nquer.github.io/web/categories/Hacking/</loc>
     <lastmod>2024-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
