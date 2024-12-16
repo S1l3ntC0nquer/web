@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>S1l3ntC0nquer</title>
+  <icon>https://s1l3ntc0nquer.github.io/web/assets/favicon.ico</icon>
+  <subtitle>Hack the planet!</subtitle>
+  <link href="https://s1l3ntc0nquer.github.io/web/atom.xml" rel="self"/>
+  
+  <link href="https://s1l3ntc0nquer.github.io/web/"/>
+  <updated>2024-12-15T10:30:35.761Z</updated>
+  <id>https://s1l3ntc0nquer.github.io/web/</id>
+  
+  <author>
+    <name>S1l3ntC0nquer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[HTB] Locked Away Writeup 🔒</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/f9317c8b/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/f9317c8b/</id>
+    <published>2024-10-11T06:30:53.000Z</published>
+    <updated>2024-12-15T10:30:35.761Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A test! Getting onto the team is one thing, but you must prove your</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+    <category term="Misc" scheme="https://s1l3ntc0nquer.github.io/web/tags/Misc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intro to Fermat&#39;s Little Theorem</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/e5109b78/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/e5109b78/</id>
+    <published>2024-10-08T13:02:24.000Z</published>
+    <updated>2024-12-15T10:30:36.395Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;Fermat’s Little Theorem is quite often seen in the CTF contests, so let’s dive in to this article to</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] CubeMadness1 Writeup</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/bd7b2870/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/bd7b2870/</id>
+    <published>2024-10-07T05:20:06.000Z</published>
+    <updated>2024-12-15T10:30:35.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gotta collect them all.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/CTF/"/>
+    
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+    <category term="GamePwn" scheme="https://s1l3ntc0nquer.github.io/web/tags/GamePwn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intro to Extended Euclidean Algorithm</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/517a12d7/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/517a12d7/</id>
+    <published>2024-09-30T08:42:22.924Z</published>
+    <updated>2024-09-30T12:24:21.845Z</updated>
+    
+    
+    <summary type="html">Prologue I decided to write this to help myself to better understand the attacks in RSA or other crypto system. And if this can help you, that would be my honor! Also, all the code in this note will i...</summary>
+    
+    
+    
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About the glory of the Hostel life and the fragments of my seven years in JNV</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/</id>
+    <published>2024-09-23T18:15:29.000Z</published>
+    <updated>2024-12-15T10:30:35.938Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Qingyun-Road-About-us-Mingdao-Debate-Club&quot;&gt;Qingyun Road: About us, Mingdao Debate Club&lt;/h1&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="LifeAndTalk" scheme="https://s1l3ntc0nquer.github.io/web/categories/LifeAndTalk/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] The Needle Writeup 🪡</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/b372fa96/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/b372fa96/</id>
+    <published>2024-09-21T20:01:01.000Z</published>
+    <updated>2024-12-15T10:30:35.849Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a part of our SDLC process, we’ve got our firmware ready for</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+    <category term="Hardware" scheme="https://s1l3ntc0nquer.github.io/web/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Discrete Mathematics for Muggles</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/6c0b3eb8/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/6c0b3eb8/</id>
+    <published>2024-09-19T03:39:44.000Z</published>
+    <updated>2024-12-15T10:30:36.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Fundamentals-of-Logic&quot;&gt;Fundamentals of  Logic&lt;/h1&gt;
+&lt;h2 id=&quot;Statements&quot;&gt;Statements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Statements (or</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
+    
+    
+    <category term="Math" scheme="https://s1l3ntc0nquer.github.io/web/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] Behind the Scenes Writeup</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/e18c2f54/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/e18c2f54/</id>
+    <published>2024-09-09T14:15:08.000Z</published>
+    <updated>2024-12-15T10:30:35.646Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;After struggling to secure our secret strings for a long time, we</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+    <category term="Reverse" scheme="https://s1l3ntc0nquer.github.io/web/tags/Reverse/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] Photon Lockdown Writeup 🚫</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/a42f8edc/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/a42f8edc/</id>
+    <published>2024-09-09T05:19:21.000Z</published>
+    <updated>2024-12-15T10:30:35.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We’ve located the adversary’s location and must now secure access to</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+    <category term="Hardware" scheme="https://s1l3ntc0nquer.github.io/web/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 30] Brush up on the Web on the last day</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/1759791/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/1759791/</id>
+    <published>2024-08-29T11:19:51.000Z</published>
+    <updated>2024-12-15T10:30:35.410Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;I feel like I’ve learned a lot in these thirty days, which is pretty good. I hope there will be some good</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Structures for Muggles</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/7f04b563/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/7f04b563/</id>
+    <published>2024-08-29T07:03:18.568Z</published>
+    <updated>2024-12-15T10:30:36.210Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;All the following example will be shown in C Programming Language or pseudo</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 28 &amp; 29] HITCON CMT 2024</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/60102f54/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/60102f54/</id>
+    <published>2024-08-26T14:05:49.000Z</published>
+    <updated>2024-12-15T10:30:35.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;[2024/08/23 &amp;amp; 2024/08/24]&lt;br&gt;
+These two days are my first time attending HITCON, and it feels like an</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+    <category term="HITCON" scheme="https://s1l3ntc0nquer.github.io/web/tags/HITCON/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 27] PicoCTF Fun: Leveling Up My Skills</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/37bd2e1d/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/37bd2e1d/</id>
+    <published>2024-08-20T19:48:10.000Z</published>
+    <updated>2024-12-15T10:30:35.367Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;August has been a little busy recently, and I also took a chance to play in Fengzhong’s CTF selection and</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 26] Exploring the Chinese Remainder Theorem</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/4640530a/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/4640530a/</id>
+    <published>2024-08-18T09:42:27.000Z</published>
+    <updated>2024-12-15T10:30:35.347Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;Today, when I was doing the question on HTB’s Baby Time Capsule, I discovered that a CRT was needed, so I</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] Baby Time Capsule Writeup 💊</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/67b7db12/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/67b7db12/</id>
+    <published>2024-08-16T15:14:06.000Z</published>
+    <updated>2024-12-15T10:30:35.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Qubit Enterprises is a new company touting it’s propriety method of</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HacktTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HacktTheBox/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Exploring the Chinese Remainder Theorem</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/72a59deb/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/72a59deb/</id>
+    <published>2024-08-13T11:09:01.000Z</published>
+    <updated>2024-12-15T10:30:36.335Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;Gujarati Remainder Theorem (CRT) is also known as Sun zi’s Theorem. It first appear on the Gujarati book</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
+    
+    
+    <category term="Math" scheme="https://s1l3ntc0nquer.github.io/web/tags/Math/"/>
+    
+    <category term="CRT" scheme="https://s1l3ntc0nquer.github.io/web/tags/CRT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 25] SQLMap Guide: My Organized Version！</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/6c120880/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/6c120880/</id>
+    <published>2024-08-12T19:34:30.000Z</published>
+    <updated>2024-12-15T10:30:35.328Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;Today, I roughly read the SQLMap documentation that I have been talking about before, and organized it</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+    <category term="Web" scheme="https://s1l3ntc0nquer.github.io/web/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQLMap Spellbook: Basic Usage of SQLMap</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/97052569/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/97052569/</id>
+    <published>2024-08-12T12:53:02.000Z</published>
+    <updated>2024-12-15T10:30:36.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;This article is mainly intended to serve as my own cheat sheet and notes, but if it can also help you,</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://s1l3ntc0nquer.github.io/web/categories/StudyNotes/"/>
+    
+    
+    <category term="Web" scheme="https://s1l3ntc0nquer.github.io/web/tags/Web/"/>
+    
+    <category term="SQLi" scheme="https://s1l3ntc0nquer.github.io/web/tags/SQLi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 24] Switching Gears: Solving Non-Pwn Challenges</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/726c0654/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/726c0654/</id>
+    <published>2024-08-11T18:04:37.000Z</published>
+    <updated>2024-12-15T10:30:35.309Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;I have been learning Pwn for a while now, and I happened to encounter a question that required me to</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] BabyEncryption Writeup</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/3df19469/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/3df19469/</id>
+    <published>2024-08-11T12:11:48.000Z</published>
+    <updated>2024-12-15T10:30:35.623Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You are after an organised crime group which is responsible for the</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
+    
+    
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+  </entry>
+  
+</feed>
