@@ -36,9 +36,9 @@
     
     
     
-    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
     <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
@@ -126,30 +126,6 @@
   </entry>
   
   <entry>
-    <title>About the glory of the Hostel life and the fragments of my seven years in JNV</title>
-    <link href="https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/"/>
-    <id>https://s1l3ntc0nquer.github.io/web/posts/ad637ee9/</id>
-    <published>2024-09-23T18:15:29.000Z</published>
-    <updated>2024-12-15T10:30:35.938Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Qingyun-Road-About-us-Mingdao-Debate-Club&quot;&gt;Qingyun Road: About us, Mingdao Debate Club&lt;/h1&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="LifeAndTalk" scheme="https://s1l3ntc0nquer.github.io/web/categories/LifeAndTalk/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>[HTB] The Needle Writeup 🪡</title>
     <link href="https://s1l3ntc0nquer.github.io/web/posts/b372fa96/"/>
     <id>https://s1l3ntc0nquer.github.io/web/posts/b372fa96/</id>
@@ -169,9 +145,9 @@
     
     
     
-    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
     <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
@@ -230,16 +206,16 @@
     
     
     
-    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
     <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
-    <category term="Reverse" scheme="https://s1l3ntc0nquer.github.io/web/tags/Reverse/"/>
-    
     <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+    <category term="Reverse" scheme="https://s1l3ntc0nquer.github.io/web/tags/Reverse/"/>
     
   </entry>
   
@@ -263,9 +239,9 @@
     
     
     
-    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
     
     <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
@@ -409,9 +385,9 @@ These two days are my first time attending HITCON, and it feels like an</summary
     <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
     
     <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
     
@@ -437,14 +413,14 @@ These two days are my first time attending HITCON, and it feels like an</summary
     
     
     
-    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
-    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
     <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
+    
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
     <category term="HacktTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HacktTheBox/"/>
     
@@ -500,11 +476,11 @@ These two days are my first time attending HITCON, and it feels like an</summary
     <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
     
     
-    <category term="Web" scheme="https://s1l3ntc0nquer.github.io/web/tags/Web/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
     
     <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+    <category term="Web" scheme="https://s1l3ntc0nquer.github.io/web/tags/Web/"/>
     
   </entry>
   
@@ -584,16 +560,46 @@ These two days are my first time attending HITCON, and it feels like an</summary
     
     
     
-    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
-    
     <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/categories/CTF/"/>
     
+    <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/categories/HackTheBox/"/>
     
-    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
     
     <category term="Crypto" scheme="https://s1l3ntc0nquer.github.io/web/tags/Crypto/"/>
     
+    <category term="HTB" scheme="https://s1l3ntc0nquer.github.io/web/tags/HTB/"/>
+    
     <category term="HackTheBox" scheme="https://s1l3ntc0nquer.github.io/web/tags/HackTheBox/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 23] Practicing Pwn with PicoCTF</title>
+    <link href="https://s1l3ntc0nquer.github.io/web/posts/51f13f41/"/>
+    <id>https://s1l3ntc0nquer.github.io/web/posts/51f13f41/</id>
+    <published>2024-08-10T09:19:33.000Z</published>
+    <updated>2024-12-15T10:30:35.294Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Preface&quot;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;I went to Matsu a few days ago and took a break from studying. When you come back, brush up on Pico’s</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://s1l3ntc0nquer.github.io/web/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://s1l3ntc0nquer.github.io/web/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://s1l3ntc0nquer.github.io/web/tags/CyberSec/"/>
+    
+    <category term="Pwn" scheme="https://s1l3ntc0nquer.github.io/web/tags/Pwn/"/>
     
   </entry>
   
